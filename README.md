@@ -102,9 +102,3 @@ Feel free to fork and submit a pull request if you'd like to:
 * Add parameter inputs to the GUI
 * Extend the summarization logic
 * Convert this to a web-based interface
-
----
-
-## 📜 License
-
-This project is open-source. License can be added here (e.g., MIT, Apache-2.0).
